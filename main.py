@@ -1,1 +1,1 @@
-print("jopa")
+print("piska")
